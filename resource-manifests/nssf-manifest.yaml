@@ -1,0 +1,37 @@
+apiVersion: apps/v1 
+kind: Deployment
+metadata:
+  name: nssf-deployment
+spec:
+  selector:
+    matchLabels:
+      app: free5gc-nssf
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: free5gc-nssf
+    spec:
+      containers:      
+      - name: myapp-container
+        image: andresache/nssf
+        ports:
+        - containerPort: 29531
+        imagePullPolicy: Always
+
+---
+kind: Service
+apiVersion: v1
+metadata:
+  name: nssf-service
+  labels:
+    app: free5gc-nssf
+spec:
+  type: ClusterIP      
+  selector:
+    app: free5gc-nssf
+  ports:
+  - protocol: TCP
+    targetPort: 29531
+    port: 29531      
+

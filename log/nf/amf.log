@@ -1,0 +1,13 @@
+time="2022-04-06T18:53:37+03:00" level=info msg="AMF Log level is set to [info] level" category=Init component=AMF
+time="2022-04-06T18:53:37+03:00" level=info msg="config version [1.0.2]" category=CFG component=AMF
+time="2022-04-06T18:53:37+03:00" level=info msg="Server started" category=Init component=AMF
+time="2022-04-06T18:53:37+03:00" level=info msg="amfconfig Info: Version[1.0.2] Description[AMF initial local configuration]" category=Util component=AMF
+time="2022-04-06T18:53:37+03:00" level=info msg="Listen on 127.0.0.1:38412" category=NGAP component=AMF
+time="2022-04-06T18:53:39+03:00" level=info msg="[AMF] SCTP Accept from: 127.0.0.1:9487" category=NGAP component=AMF
+time="2022-04-06T18:53:39+03:00" level=info msg="Create a new NG connection for: 127.0.0.1:9487" category=NGAP component=AMF
+time="2022-04-06T18:53:39+03:00" level=info msg="Handle NG Setup request" category=NGAP component=AMF ran_addr="127.0.0.1:9487"
+time="2022-04-06T18:53:39+03:00" level=info msg="Send NG-Setup response" category=NGAP component=AMF ran_addr="127.0.0.1:9487"
+time="2022-04-06T18:53:39+03:00" level=info msg="Handle Initial UE Message" category=NGAP component=AMF ran_addr="127.0.0.1:9487"
+time="2022-04-06T18:53:39+03:00" level=info msg="Handle Registration Request" amf_ue_ngap_id="AMF_UE_NGAP_ID:1" category=GMM component=AMF
+time="2022-04-06T18:53:39+03:00" level=info msg="Authentication procedure" amf_ue_ngap_id="AMF_UE_NGAP_ID:1" category=GMM component=AMF
+time="2022-04-06T18:54:09+03:00" level=error msg="Nausf_UEAU Authenticate Request Failed: &{Type: Title: Status:500 Detail: Instance: Cause:AV_GENERATION_PROBLEM InvalidParams:[]}" amf_ue_ngap_id="AMF_UE_NGAP_ID:1" category=GMM component=AMF

@@ -1,0 +1,11 @@
+time="2022-04-05T22:18:41+03:00" level=info msg=udr category=App component=UDR
+time="2022-04-05T22:18:41+03:00" level=info msg="UDR version:  \n\tNot specify ldflags (which link version) during go build\n\tgo version: go1.14.4 linux/amd64" category=App component=UDR
+time="2022-04-05T22:18:41+03:00" level=info msg="UDR Log level is set to [info] level" category=Init component=UDR
+time="2022-04-05T22:18:41+03:00" level=info msg="config version [1.0.0]" category=CFG component=UDR
+time="2022-04-05T22:18:41+03:00" level=info msg="UDR Config Info: Version[1.0.0] Description[UDR initial local configuration]" category=Init component=UDR
+time="2022-04-05T22:18:41+03:00" level=info msg="Server started" category=Init component=UDR
+time="2022-04-05T22:18:41+03:00" level=info msg="udrconfig Info: Version[1.0.0] Description[UDR initial local configuration]" category=Util component=UDR
+time="2022-04-05T22:18:43+03:00" level=info msg="Terminating UDR..." category=Init component=UDR
+time="2022-04-05T22:18:43+03:00" level=info msg="Send Deregister NFInstance" category=Consumer component=UDR
+time="2022-04-05T22:18:44+03:00" level=info msg="Deregister from NRF successfully" category=Init component=UDR
+time="2022-04-05T22:18:44+03:00" level=info msg="UDR terminated" category=Init component=UDR

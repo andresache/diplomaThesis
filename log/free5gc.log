@@ -1,0 +1,332 @@
+time="2022-04-05T22:23:43+03:00" level=info msg=webui category=App component=WebUI
+time="2022-04-05T22:23:43+03:00" level=info msg="webconsole version:  \n\tNot specify ldflags (which link version) during go build\n\tgo version: go1.14.4 linux/amd64" category=App component=WebUI
+time="2022-04-05T22:23:43+03:00" level=info msg="WebUI Log level is set to [info] level" category=Init component=WebUI
+time="2022-04-05T22:23:43+03:00" level=info msg="set log level : info" category=OAPI component=LIB
+time="2022-04-05T22:23:43+03:00" level=info msg="set report call : false" category=OAPI component=LIB
+time="2022-04-05T22:23:43+03:00" level=info msg="set log level : info" category=MonDB component=LIB
+time="2022-04-05T22:23:43+03:00" level=info msg="set report call : false" category=MonDB component=LIB
+time="2022-04-05T22:23:43+03:00" level=info msg="Server started" func="github.com/free5gc/webconsole/backend/webui_service.(*WEBUI).Start" file="/home/andres/free5gc/webconsole/backend/webui_service/webui_init.go:167" category=Init component=WebUI
+time="2022-04-05T22:23:58+03:00" level=info msg="| 404 |       127.0.0.1 | GET     | / | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:23:58+03:00" level=info msg="| 404 |       127.0.0.1 | GET     | /favicon.ico | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:24:02+03:00" level=info msg="| 404 |       127.0.0.1 | GET     | / | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:24:34+03:00" level=info msg=webui category=App component=WebUI
+time="2022-04-05T22:24:34+03:00" level=info msg="webconsole version:  \n\tNot specify ldflags (which link version) during go build\n\tgo version: go1.14.4 linux/amd64" category=App component=WebUI
+time="2022-04-05T22:24:34+03:00" level=info msg="WebUI Log level is set to [info] level" category=Init component=WebUI
+time="2022-04-05T22:24:34+03:00" level=info msg="set log level : info" category=OAPI component=LIB
+time="2022-04-05T22:24:34+03:00" level=info msg="set report call : false" category=OAPI component=LIB
+time="2022-04-05T22:24:34+03:00" level=info msg="set log level : info" category=MonDB component=LIB
+time="2022-04-05T22:24:34+03:00" level=info msg="set report call : false" category=MonDB component=LIB
+time="2022-04-05T22:24:34+03:00" level=info msg="Server started" func="github.com/free5gc/webconsole/backend/webui_service.(*WEBUI).Start" file="/home/andres/free5gc/webconsole/backend/webui_service/webui_init.go:167" category=Init component=WebUI
+time="2022-04-05T22:24:46+03:00" level=info msg="| 404 |       127.0.0.1 | GET     | / | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:25:59+03:00" level=info msg=webui category=App component=WebUI
+time="2022-04-05T22:25:59+03:00" level=info msg="webconsole version:  \n\tNot specify ldflags (which link version) during go build\n\tgo version: go1.14.4 linux/amd64" category=App component=WebUI
+time="2022-04-05T22:25:59+03:00" level=info msg="WebUI Log level is set to [info] level" category=Init component=WebUI
+time="2022-04-05T22:25:59+03:00" level=info msg="set log level : info" category=OAPI component=LIB
+time="2022-04-05T22:25:59+03:00" level=info msg="set report call : false" category=OAPI component=LIB
+time="2022-04-05T22:25:59+03:00" level=info msg="set log level : info" category=MonDB component=LIB
+time="2022-04-05T22:25:59+03:00" level=info msg="set report call : false" category=MonDB component=LIB
+time="2022-04-05T22:25:59+03:00" level=info msg="Server started" func="github.com/free5gc/webconsole/backend/webui_service.(*WEBUI).Start" file="/home/andres/free5gc/webconsole/backend/webui_service/webui_init.go:167" category=Init component=WebUI
+time="2022-04-05T22:26:02+03:00" level=info msg="| 404 |       127.0.0.1 | GET     | / | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:26:02+03:00" level=info msg="| 404 |       127.0.0.1 | GET     | /favicon.ico | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:26:02+03:00" level=info msg="| 404 |       127.0.0.1 | GET     | / | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:26:03+03:00" level=info msg="| 404 |       127.0.0.1 | GET     | / | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:26:03+03:00" level=info msg="| 404 |       127.0.0.1 | GET     | / | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:31:29+03:00" level=info msg=webui category=App component=WebUI
+time="2022-04-05T22:31:29+03:00" level=info msg="webconsole version:  \n\tNot specify ldflags (which link version) during go build\n\tgo version: go1.14.4 linux/amd64" category=App component=WebUI
+time="2022-04-05T22:31:29+03:00" level=info msg="WebUI Log level is set to [info] level" category=Init component=WebUI
+time="2022-04-05T22:31:29+03:00" level=info msg="set log level : info" category=OAPI component=LIB
+time="2022-04-05T22:31:29+03:00" level=info msg="set report call : false" category=OAPI component=LIB
+time="2022-04-05T22:31:29+03:00" level=info msg="set log level : info" category=MonDB component=LIB
+time="2022-04-05T22:31:29+03:00" level=info msg="set report call : false" category=MonDB component=LIB
+time="2022-04-05T22:31:29+03:00" level=info msg="Server started" func="github.com/free5gc/webconsole/backend/webui_service.(*WEBUI).Start" file="/home/andres/free5gc/webconsole/backend/webui_service/webui_init.go:167" category=Init component=WebUI
+time="2022-04-05T22:31:32+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | / | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:31:32+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /static/js/main.c79201ad.js | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:31:38+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /static/media/free5gc_logo.adcdb325.png | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:31:39+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /service-worker.js | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:31:39+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /service-worker.js | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:31:39+03:00" level=info msg="| 301 |       127.0.0.1 | GET     | /index.html?_sw-precache=f600458ccfdb18e66afe69cb39ca28bd | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:31:39+03:00" level=info msg="| 304 |       127.0.0.1 | GET     | /static/js/main.c79201ad.js | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:31:39+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /static/media/Pe-icon-7-stroke.01798bc1.ttf | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:31:39+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /static/media/Pe-icon-7-stroke.71394c0c.eot | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:31:39+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /static/media/Pe-icon-7-stroke.b38ef310.woff | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:31:39+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /static/media/Pe-icon-7-stroke.c45f7de0.svg | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:31:39+03:00" level=info msg="| 404 |       127.0.0.1 | GET     | /?_sw-precache=f600458ccfdb18e66afe69cb39ca28bd | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:31:43+03:00" level=info msg="| 304 |       127.0.0.1 | GET     | /static/media/Pe-icon-7-stroke.b38ef310.woff | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:31:43+03:00" level=info msg="Get Registered UE Context" func=github.com/free5gc/webconsole/backend/WebUI.GetRegisteredUEContext file="/home/andres/free5gc/webconsole/backend/WebUI/api_webui.go:577" category=WebUI component=WebUI
+time="2022-04-05T22:31:43+03:00" level=info msg="| 500 |       127.0.0.1 | GET     | /api/registered-ue-context | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-05T22:31:50+03:00" level=info msg="Get Registered UE Context" func=github.com/free5gc/webconsole/backend/WebUI.GetRegisteredUEContext file="/home/andres/free5gc/webconsole/backend/WebUI/api_webui.go:577" category=WebUI component=WebUI
+time="2022-04-05T22:31:50+03:00" level=info msg="| 500 |       127.0.0.1 | GET     | /api/registered-ue-context | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T12:00:35+03:00" level=info msg=webui category=App component=WebUI
+time="2022-04-06T12:00:35+03:00" level=info msg="webconsole version:  \n\tNot specify ldflags (which link version) during go build\n\tgo version: go1.14.4 linux/amd64" category=App component=WebUI
+time="2022-04-06T12:00:35+03:00" level=info msg="WebUI Log level is set to [info] level" category=Init component=WebUI
+time="2022-04-06T12:00:35+03:00" level=info msg="set log level : info" category=OAPI component=LIB
+time="2022-04-06T12:00:35+03:00" level=info msg="set report call : false" category=OAPI component=LIB
+time="2022-04-06T12:00:35+03:00" level=info msg="set log level : info" category=MonDB component=LIB
+time="2022-04-06T12:00:35+03:00" level=info msg="set report call : false" category=MonDB component=LIB
+time="2022-04-06T12:00:35+03:00" level=info msg="Server started" func="github.com/free5gc/webconsole/backend/webui_service.(*WEBUI).Start" file="/home/andres/free5gc/webconsole/backend/webui_service/webui_init.go:167" category=Init component=WebUI
+time="2022-04-06T12:00:49+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | / | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T12:00:49+03:00" level=info msg="| 304 |       127.0.0.1 | GET     | /static/js/main.c79201ad.js | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T12:00:49+03:00" level=info msg="| 304 |       127.0.0.1 | GET     | /static/media/free5gc_logo.adcdb325.png | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T12:00:49+03:00" level=info msg="| 304 |       127.0.0.1 | GET     | /service-worker.js | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T12:00:49+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /service-worker.js | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T12:00:49+03:00" level=info msg="| 404 |       127.0.0.1 | GET     | /?_sw-precache=f600458ccfdb18e66afe69cb39ca28bd | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T12:00:51+03:00" level=info msg="| 304 |       127.0.0.1 | GET     | /static/media/Pe-icon-7-stroke.b38ef310.woff | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T12:00:51+03:00" level=info msg="Get Registered UE Context" func=github.com/free5gc/webconsole/backend/WebUI.GetRegisteredUEContext file="/home/andres/free5gc/webconsole/backend/WebUI/api_webui.go:577" category=WebUI component=WebUI
+time="2022-04-06T12:00:51+03:00" level=info msg="| 500 |       127.0.0.1 | GET     | /api/registered-ue-context | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T12:00:53+03:00" level=info msg="Get Registered UE Context" func=github.com/free5gc/webconsole/backend/WebUI.GetRegisteredUEContext file="/home/andres/free5gc/webconsole/backend/WebUI/api_webui.go:577" category=WebUI component=WebUI
+time="2022-04-06T12:00:53+03:00" level=info msg="| 500 |       127.0.0.1 | GET     | /api/registered-ue-context | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T17:53:05+03:00" level=info msg=webui category=App component=WebUI
+time="2022-04-06T17:53:05+03:00" level=info msg="webconsole version:  \n\tNot specify ldflags (which link version) during go build\n\tgo version: go1.14.4 linux/amd64" category=App component=WebUI
+time="2022-04-06T17:53:05+03:00" level=info msg="WebUI Log level is set to [info] level" category=Init component=WebUI
+time="2022-04-06T17:53:05+03:00" level=info msg="set log level : info" category=OAPI component=LIB
+time="2022-04-06T17:53:05+03:00" level=info msg="set report call : false" category=OAPI component=LIB
+time="2022-04-06T17:53:05+03:00" level=info msg="set log level : info" category=MonDB component=LIB
+time="2022-04-06T17:53:05+03:00" level=info msg="set report call : false" category=MonDB component=LIB
+time="2022-04-06T17:53:05+03:00" level=info msg="Server started" func="github.com/free5gc/webconsole/backend/webui_service.(*WEBUI).Start" file="/home/andres/free5gc/webconsole/backend/webui_service/webui_init.go:167" category=Init component=WebUI
+time="2022-04-06T17:53:09+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | / | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T17:53:09+03:00" level=info msg="| 304 |       127.0.0.1 | GET     | /static/js/main.c79201ad.js | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T17:53:10+03:00" level=info msg="| 304 |       127.0.0.1 | GET     | /static/media/free5gc_logo.adcdb325.png | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T17:53:10+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /service-worker.js | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T17:53:10+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /service-worker.js | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T17:53:10+03:00" level=info msg="| 404 |       127.0.0.1 | GET     | /?_sw-precache=f600458ccfdb18e66afe69cb39ca28bd | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T17:54:59+03:00" level=info msg=webui category=App component=WebUI
+time="2022-04-06T17:54:59+03:00" level=info msg="webconsole version:  \n\tNot specify ldflags (which link version) during go build\n\tgo version: go1.14.4 linux/amd64" category=App component=WebUI
+time="2022-04-06T17:54:59+03:00" level=info msg="WebUI Log level is set to [info] level" category=Init component=WebUI
+time="2022-04-06T17:54:59+03:00" level=info msg="set log level : info" category=OAPI component=LIB
+time="2022-04-06T17:54:59+03:00" level=info msg="set report call : false" category=OAPI component=LIB
+time="2022-04-06T17:54:59+03:00" level=info msg="set log level : info" category=MonDB component=LIB
+time="2022-04-06T17:54:59+03:00" level=info msg="set report call : false" category=MonDB component=LIB
+time="2022-04-06T17:54:59+03:00" level=info msg="Server started" func="github.com/free5gc/webconsole/backend/webui_service.(*WEBUI).Start" file="/home/andres/free5gc/webconsole/backend/webui_service/webui_init.go:167" category=Init component=WebUI
+time="2022-04-06T17:56:05+03:00" level=info msg=webui category=App component=WebUI
+time="2022-04-06T17:56:05+03:00" level=info msg="webconsole version:  \n\tNot specify ldflags (which link version) during go build\n\tgo version: go1.14.4 linux/amd64" category=App component=WebUI
+time="2022-04-06T17:56:05+03:00" level=info msg="WebUI Log level is set to [info] level" category=Init component=WebUI
+time="2022-04-06T17:56:05+03:00" level=info msg="set log level : info" category=OAPI component=LIB
+time="2022-04-06T17:56:05+03:00" level=info msg="set report call : false" category=OAPI component=LIB
+time="2022-04-06T17:56:05+03:00" level=info msg="set log level : info" category=MonDB component=LIB
+time="2022-04-06T17:56:05+03:00" level=info msg="set report call : false" category=MonDB component=LIB
+time="2022-04-06T17:56:05+03:00" level=info msg="Server started" func="github.com/free5gc/webconsole/backend/webui_service.(*WEBUI).Start" file="/home/andres/free5gc/webconsole/backend/webui_service/webui_init.go:167" category=Init component=WebUI
+time="2022-04-06T17:56:11+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /service-worker.js | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T17:56:11+03:00" level=info msg="| 404 |       127.0.0.1 | GET     | /?_sw-precache=f600458ccfdb18e66afe69cb39ca28bd | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T17:56:40+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /service-worker.js | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T17:56:40+03:00" level=info msg="| 404 |       127.0.0.1 | GET     | /?_sw-precache=f600458ccfdb18e66afe69cb39ca28bd | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T18:03:56+03:00" level=info msg=webui category=App component=WebUI
+time="2022-04-06T18:03:56+03:00" level=info msg="webconsole version:  \n\tNot specify ldflags (which link version) during go build\n\tgo version: go1.14.4 linux/amd64" category=App component=WebUI
+time="2022-04-06T18:03:56+03:00" level=info msg="WebUI Log level is set to [info] level" category=Init component=WebUI
+time="2022-04-06T18:03:56+03:00" level=info msg="set log level : info" category=OAPI component=LIB
+time="2022-04-06T18:03:56+03:00" level=info msg="set report call : false" category=OAPI component=LIB
+time="2022-04-06T18:03:56+03:00" level=info msg="set log level : info" category=MonDB component=LIB
+time="2022-04-06T18:03:56+03:00" level=info msg="set report call : false" category=MonDB component=LIB
+time="2022-04-06T18:03:56+03:00" level=info msg="Server started" func="github.com/free5gc/webconsole/backend/webui_service.(*WEBUI).Start" file="/home/andres/free5gc/webconsole/backend/webui_service/webui_init.go:167" category=Init component=WebUI
+time="2022-04-06T18:04:05+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | / | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T18:11:07+03:00" level=info msg=webui category=App component=WebUI
+time="2022-04-06T18:11:07+03:00" level=info msg="webconsole version:  \n\tNot specify ldflags (which link version) during go build\n\tgo version: go1.14.4 linux/amd64" category=App component=WebUI
+time="2022-04-06T18:11:07+03:00" level=info msg="WebUI Log level is set to [info] level" category=Init component=WebUI
+time="2022-04-06T18:11:07+03:00" level=info msg="set log level : info" category=OAPI component=LIB
+time="2022-04-06T18:11:07+03:00" level=info msg="set report call : false" category=OAPI component=LIB
+time="2022-04-06T18:11:07+03:00" level=info msg="set log level : info" category=MonDB component=LIB
+time="2022-04-06T18:11:07+03:00" level=info msg="set report call : false" category=MonDB component=LIB
+time="2022-04-06T18:11:07+03:00" level=info msg="Server started" func="github.com/free5gc/webconsole/backend/webui_service.(*WEBUI).Start" file="/home/andres/free5gc/webconsole/backend/webui_service/webui_init.go:167" category=Init component=WebUI
+time="2022-04-06T18:11:16+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /service-worker.js | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T18:11:16+03:00" level=info msg="| 404 |       127.0.0.1 | GET     | /?_sw-precache=f600458ccfdb18e66afe69cb39ca28bd | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-06T18:53:37+03:00" level=info msg="NRF Log level is set to [info] level" category=Init component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="set log level : info" category=OAPI component=LIB
+time="2022-04-06T18:53:37+03:00" level=info msg="set report call : false" category=OAPI component=LIB
+time="2022-04-06T18:53:37+03:00" level=info msg="set log level : info" category=MonDB component=LIB
+time="2022-04-06T18:53:37+03:00" level=info msg="set report call : false" category=MonDB component=LIB
+time="2022-04-06T18:53:37+03:00" level=info msg="config version [1.0.0]" category=CFG component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="Server started" category=Init component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="nrfconfig Info: Version[1.0.0] Description[NRF initial local configuration]" category=Init component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="Binding addr: [127.0.0.10:8000]" category=Init component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="AMF Log level is set to [info] level" category=Init component=AMF
+time="2022-04-06T18:53:37+03:00" level=info msg="set log level : info" category=NAS component=LIB
+time="2022-04-06T18:53:37+03:00" level=info msg="set report call : false" category=NAS component=LIB
+time="2022-04-06T18:53:37+03:00" level=info msg="set log level : info" category=NGAP component=LIB
+time="2022-04-06T18:53:37+03:00" level=info msg="set report call : false" category=NGAP component=LIB
+time="2022-04-06T18:53:37+03:00" level=info msg="set log level : info" category=FSM component=LIB
+time="2022-04-06T18:53:37+03:00" level=info msg="set report call : false" category=FSM component=LIB
+time="2022-04-06T18:53:37+03:00" level=info msg="set log level : info" category=OAPI component=LIB
+time="2022-04-06T18:53:37+03:00" level=info msg="set report call : false" category=OAPI component=LIB
+time="2022-04-06T18:53:37+03:00" level=info msg="config version [1.0.2]" category=CFG component=AMF
+time="2022-04-06T18:53:37+03:00" level=info msg="Server started" category=Init component=AMF
+time="2022-04-06T18:53:37+03:00" level=info msg="amfconfig Info: Version[1.0.2] Description[AMF initial local configuration]" category=Util component=AMF
+time="2022-04-06T18:53:37+03:00" level=info msg="Listen on 127.0.0.1:38412" category=NGAP component=AMF
+time="2022-04-06T18:53:37+03:00" level=info msg="Handle NFRegisterRequest" category=MGMT component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="urilist update" category=MGMT component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="Create NF Profile" category=MGMT component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="Location header:  http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/7f27f484-4f0e-4061-a5db-059aece309fe" category=MGMT component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="| 201 |       127.0.0.1 | PUT     | /nnrf-nfm/v1/nf-instances/7f27f484-4f0e-4061-a5db-059aece309fe | " category=GIN component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="SMF Log level is set to [info] level" category=Init component=SMF
+time="2022-04-06T18:53:37+03:00" level=info msg="set log level : info" category=NAS component=LIB
+time="2022-04-06T18:53:37+03:00" level=info msg="set report call : false" category=NAS component=LIB
+time="2022-04-06T18:53:37+03:00" level=info msg="set log level : info" category=NGAP component=LIB
+time="2022-04-06T18:53:37+03:00" level=info msg="set report call : false" category=NGAP component=LIB
+time="2022-04-06T18:53:37+03:00" level=info msg="set log level : info" category=OAPI component=LIB
+time="2022-04-06T18:53:37+03:00" level=info msg="set report call : false" category=OAPI component=LIB
+time="2022-04-06T18:53:37+03:00" level=info msg="set log level : info" category=PFCP component=LIB
+time="2022-04-06T18:53:37+03:00" level=info msg="set report call : false" category=PFCP component=LIB
+time="2022-04-06T18:53:37+03:00" level=info msg="SMF config version [1.0.2]" category=CFG component=SMF
+time="2022-04-06T18:53:37+03:00" level=info msg="UE-Routing config version [1.0.1]" category=CFG component=SMF
+time="2022-04-06T18:53:37+03:00" level=info msg="smfconfig Info: Version[1.0.2] Description[SMF initial local configuration]" category=CTX component=SMF
+time="2022-04-06T18:53:37+03:00" level=info msg="Endpoints: [10.200.200.102]" category=CTX component=SMF
+time="2022-04-06T18:53:37+03:00" level=info msg="Server started" category=Init component=SMF
+time="2022-04-06T18:53:37+03:00" level=info msg="Handle NFRegisterRequest" category=MGMT component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="urilist update" category=MGMT component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="Create NF Profile" category=MGMT component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="Location header:  http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/50ca8c20-243a-46bc-a3eb-a43a63c05922" category=MGMT component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="| 201 |       127.0.0.1 | PUT     | /nnrf-nfm/v1/nf-instances/50ca8c20-243a-46bc-a3eb-a43a63c05922 | " category=GIN component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="SMF Registration to NRF {50ca8c20-243a-46bc-a3eb-a43a63c05922 SMF REGISTERED 0 0xc000254220 0xc000254260 [] []   [127.0.0.2] [] <nil> [] [] <nil> 0 0 0 area1 <nil> <nil> <nil> <nil> 0xc0004b0200 <nil> <nil> <nil> <nil> <nil> map[] <nil> false 0xc0002540a0 false false []}" category=Init component=SMF
+time="2022-04-06T18:53:37+03:00" level=info msg="Listen on 10.200.200.1:8805" category=PFCP component=SMF
+time="2022-04-06T18:53:37+03:00" level=info msg="Send PFCP Association Request to UPF[10.200.200.101]\n" category=App component=SMF
+time="2022-04-06T18:53:38+03:00" level=info msg="UDR Log level is set to [info] level" category=Init component=UDR
+time="2022-04-06T18:53:38+03:00" level=info msg="set log level : info" category=OAPI component=LIB
+time="2022-04-06T18:53:38+03:00" level=info msg="set report call : false" category=OAPI component=LIB
+time="2022-04-06T18:53:38+03:00" level=info msg="set log level : info" category=MonDB component=LIB
+time="2022-04-06T18:53:38+03:00" level=info msg="set report call : false" category=MonDB component=LIB
+time="2022-04-06T18:53:38+03:00" level=info msg="config version [1.0.0]" category=CFG component=UDR
+time="2022-04-06T18:53:38+03:00" level=info msg="UDR Config Info: Version[1.0.0] Description[UDR initial local configuration]" category=Init component=UDR
+time="2022-04-06T18:53:38+03:00" level=info msg="Server started" category=Init component=UDR
+time="2022-04-06T18:53:38+03:00" level=info msg="udrconfig Info: Version[1.0.0] Description[UDR initial local configuration]" category=Util component=UDR
+time="2022-04-06T18:53:38+03:00" level=info msg="Handle NFRegisterRequest" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="urilist update" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Create NF Profile" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Location header:  http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/2da426c9-a464-4a98-b761-cfa54813e367" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="| 201 |       127.0.0.1 | PUT     | /nnrf-nfm/v1/nf-instances/2da426c9-a464-4a98-b761-cfa54813e367 | " category=GIN component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="PCF Log level is set to [info] level" category=Init component=PCF
+time="2022-04-06T18:53:38+03:00" level=info msg="set log level : info" category=OAPI component=LIB
+time="2022-04-06T18:53:38+03:00" level=info msg="set report call : false" category=OAPI component=LIB
+time="2022-04-06T18:53:38+03:00" level=info msg="config version [1.0.0]" category=CFG component=PCF
+time="2022-04-06T18:53:38+03:00" level=info msg="Server started" category=Init component=PCF
+time="2022-04-06T18:53:38+03:00" level=info msg="pcfconfig Info: Version[1.0.0] Description[PCF initial local configuration]" category=Util component=PCF
+time="2022-04-06T18:53:38+03:00" level=info msg="Handle NFRegisterRequest" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="urilist update" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Create NF Profile" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Location header:  http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/8453ac01-fee8-4dee-b8f7-bb96be918eab" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="| 201 |       127.0.0.1 | PUT     | /nnrf-nfm/v1/nf-instances/8453ac01-fee8-4dee-b8f7-bb96be918eab | " category=GIN component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Handle NFDiscoveryRequest" category=DSCV component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /nnrf-disc/v1/nf-instances?requester-nf-type=PCF&service-names=nudr-dr&target-nf-type=UDR | " category=GIN component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="UDM Log level is set to [info] level" category=Init component=UDM
+time="2022-04-06T18:53:38+03:00" level=info msg="set log level : info" category=OAPI component=LIB
+time="2022-04-06T18:53:38+03:00" level=info msg="set report call : false" category=OAPI component=LIB
+time="2022-04-06T18:53:38+03:00" level=info msg="config version [1.0.1]" category=CFG component=UDM
+time="2022-04-06T18:53:38+03:00" level=info msg="UDM Config Info: Version[1.0.1] Description[UDM initial local configuration]" category=Init component=UDM
+time="2022-04-06T18:53:38+03:00" level=info msg="Server started" category=Init component=UDM
+time="2022-04-06T18:53:38+03:00" level=info msg="udmconfig Info: Version[1.0.1] Description[UDM initial local configuration]" category=Util component=UDM
+time="2022-04-06T18:53:38+03:00" level=info msg="Handle NFRegisterRequest" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="urilist update" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Create NF Profile" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Location header:  http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/4e396383-531a-4f9d-8bc4-b35a5c202543" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="| 201 |       127.0.0.1 | PUT     | /nnrf-nfm/v1/nf-instances/4e396383-531a-4f9d-8bc4-b35a5c202543 | " category=GIN component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="NSSF Log level is set to [info] level" category=Init component=NSSF
+time="2022-04-06T18:53:38+03:00" level=info msg="set log level : info" category=OAPI component=LIB
+time="2022-04-06T18:53:38+03:00" level=info msg="set report call : false" category=OAPI component=LIB
+time="2022-04-06T18:53:38+03:00" level=info msg="config version [1.0.0]" category=CFG component=NSSF
+time="2022-04-06T18:53:38+03:00" level=info msg="Server started" category=Init component=NSSF
+time="2022-04-06T18:53:38+03:00" level=info msg="Handle NFRegisterRequest" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="urilist update" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Create NF Profile" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Location header:  http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/9f0fc0b5-d7f6-4155-b40a-23e4f4e34e8a" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="| 201 |       127.0.0.1 | PUT     | /nnrf-nfm/v1/nf-instances/9f0fc0b5-d7f6-4155-b40a-23e4f4e34e8a | " category=GIN component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="AUSF Log level is set to [info] level" category=Init component=AUSF
+time="2022-04-06T18:53:38+03:00" level=info msg="set log level : info" category=OAPI component=LIB
+time="2022-04-06T18:53:38+03:00" level=info msg="set report call : false" category=OAPI component=LIB
+time="2022-04-06T18:53:38+03:00" level=info msg="config version [1.0.0]" category=CFG component=AUSF
+time="2022-04-06T18:53:38+03:00" level=info msg="Server started" category=Init component=AUSF
+time="2022-04-06T18:53:38+03:00" level=info msg="ausfconfig Info: Version[1.0.0] Description[AUSF initial local configuration]\n" category=Init component=AUSF
+time="2022-04-06T18:53:38+03:00" level=info msg="Handle NFRegisterRequest" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="urilist update" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Create NF Profile" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Location header:  http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/5bb14955-cf16-41b9-9a6b-df6a9bf88f18" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="| 201 |       127.0.0.1 | PUT     | /nnrf-nfm/v1/nf-instances/5bb14955-cf16-41b9-9a6b-df6a9bf88f18 | " category=GIN component=NRF
+time="2022-04-06T18:53:39+03:00" level=info msg="[AMF] SCTP Accept from: 127.0.0.1:9487" category=NGAP component=AMF
+time="2022-04-06T18:53:39+03:00" level=info msg="Create a new NG connection for: 127.0.0.1:9487" category=NGAP component=AMF
+time="2022-04-06T18:53:39+03:00" level=info msg="Handle NG Setup request" category=NGAP component=AMF ran_addr="127.0.0.1:9487"
+time="2022-04-06T18:53:39+03:00" level=info msg="Send NG-Setup response" category=NGAP component=AMF ran_addr="127.0.0.1:9487"
+time="2022-04-06T18:53:39+03:00" level=info msg="Handle Initial UE Message" category=NGAP component=AMF ran_addr="127.0.0.1:9487"
+time="2022-04-06T18:53:39+03:00" level=info msg="Handle Registration Request" amf_ue_ngap_id="AMF_UE_NGAP_ID:1" category=GMM component=AMF
+time="2022-04-06T18:53:39+03:00" level=info msg="Authentication procedure" amf_ue_ngap_id="AMF_UE_NGAP_ID:1" category=GMM component=AMF
+time="2022-04-06T18:53:39+03:00" level=info msg="Handle NFDiscoveryRequest" category=DSCV component=NRF
+time="2022-04-06T18:53:39+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /nnrf-disc/v1/nf-instances?requester-nf-type=AMF&target-nf-type=AUSF | " category=GIN component=NRF
+time="2022-04-06T18:53:46+03:00" level=info msg="Remove Request Transaction [1]\n" category=PFCP component=LIB
+time="2022-04-06T18:54:09+03:00" level=error msg="Nausf_UEAU Authenticate Request Failed: &{Type: Title: Status:500 Detail: Instance: Cause:AV_GENERATION_PROBLEM InvalidParams:[]}" amf_ue_ngap_id="AMF_UE_NGAP_ID:1" category=GMM component=AMF
+time="2022-04-07T18:56:36+03:00" level=info msg="SMF version:  \n\tNot specify ldflags (which link version) during go build\n\tgo version: go1.14.4 linux/amd64" category=App component=SMF
+time="2022-04-07T18:56:36+03:00" level=info msg="SMF Log level is set to [info] level" category=Init component=SMF
+time="2022-04-07T18:56:36+03:00" level=info msg="set log level : info" category=NAS component=LIB
+time="2022-04-07T18:56:36+03:00" level=info msg="set report call : false" category=NAS component=LIB
+time="2022-04-07T18:56:36+03:00" level=info msg="set log level : info" category=NGAP component=LIB
+time="2022-04-07T18:56:36+03:00" level=info msg="set report call : false" category=NGAP component=LIB
+time="2022-04-07T18:56:36+03:00" level=info msg="set log level : info" category=Aper component=LIB
+time="2022-04-07T18:56:36+03:00" level=info msg="set report call : false" category=Aper component=LIB
+time="2022-04-07T18:56:36+03:00" level=info msg="set log level : info" category=OAPI component=LIB
+time="2022-04-07T18:56:36+03:00" level=info msg="set report call : false" category=OAPI component=LIB
+time="2022-04-07T18:56:36+03:00" level=info msg="set log level : info" category=PFCP component=LIB
+time="2022-04-07T18:56:36+03:00" level=info msg="set report call : false" category=PFCP component=LIB
+time="2022-04-07T18:56:36+03:00" level=info msg="SMF config version [1.0.2]" category=CFG component=SMF
+time="2022-04-07T18:56:36+03:00" level=info msg="UE-Routing config version [1.0.1]" category=CFG component=SMF
+time="2022-04-07T18:56:36+03:00" level=info msg="smfconfig Info: Version[1.0.2] Description[SMF initial local configuration]" category=CTX component=SMF
+time="2022-04-07T18:56:36+03:00" level=info msg="Endpoints: [127.0.0.8]" category=CTX component=SMF
+time="2022-04-07T18:56:36+03:00" level=info msg="Server started" category=Init component=SMF
+time="2022-04-07T18:56:36+03:00" level=info msg="SMF register to NRF Error[Put \"http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/889b20ce-393f-48b6-8036-a52cfa77c410\": dial tcp 127.0.0.10:8000: connect: connection refused]" category=Consumer component=SMF
+time="2022-04-07T18:56:38+03:00" level=info msg="SMF register to NRF Error[Put \"http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/889b20ce-393f-48b6-8036-a52cfa77c410\": dial tcp 127.0.0.10:8000: connect: connection refused]" category=Consumer component=SMF
+time="2022-04-07T18:56:40+03:00" level=info msg="SMF register to NRF Error[Put \"http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/889b20ce-393f-48b6-8036-a52cfa77c410\": dial tcp 127.0.0.10:8000: connect: connection refused]" category=Consumer component=SMF
+time="2022-04-07T18:56:42+03:00" level=info msg="SMF register to NRF Error[Put \"http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/889b20ce-393f-48b6-8036-a52cfa77c410\": dial tcp 127.0.0.10:8000: connect: connection refused]" category=Consumer component=SMF
+time="2022-04-07T18:56:44+03:00" level=info msg="SMF register to NRF Error[Put \"http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/889b20ce-393f-48b6-8036-a52cfa77c410\": dial tcp 127.0.0.10:8000: connect: connection refused]" category=Consumer component=SMF
+time="2022-04-07T18:56:46+03:00" level=info msg="SMF register to NRF Error[Put \"http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/889b20ce-393f-48b6-8036-a52cfa77c410\": dial tcp 127.0.0.10:8000: connect: connection refused]" category=Consumer component=SMF
+time="2022-04-07T18:57:04+03:00" level=info msg="NRF version:  \n\tNot specify ldflags (which link version) during go build\n\tgo version: go1.14.4 linux/amd64" category=App component=NRF
+time="2022-04-07T18:57:04+03:00" level=info msg="NRF Log level is set to [info] level" category=Init component=NRF
+time="2022-04-07T18:57:04+03:00" level=info msg="set log level : info" category=OAPI component=LIB
+time="2022-04-07T18:57:04+03:00" level=info msg="set report call : false" category=OAPI component=LIB
+time="2022-04-07T18:57:04+03:00" level=info msg="set log level : info" category=MonDB component=LIB
+time="2022-04-07T18:57:04+03:00" level=info msg="set report call : false" category=MonDB component=LIB
+time="2022-04-07T18:57:04+03:00" level=info msg="config version [1.0.0]" category=CFG component=NRF
+time="2022-04-07T18:57:04+03:00" level=info msg="Server started" category=Init component=NRF
+time="2022-04-07T18:57:04+03:00" level=info msg="nrfconfig Info: Version[1.0.0] Description[NRF initial local configuration]" category=Init component=NRF
+time="2022-04-07T18:57:04+03:00" level=info msg="Binding addr: [127.0.0.10:8000]" category=Init component=NRF
+time="2022-04-07T18:57:07+03:00" level=info msg="SMF version:  \n\tNot specify ldflags (which link version) during go build\n\tgo version: go1.14.4 linux/amd64" category=App component=SMF
+time="2022-04-07T18:57:07+03:00" level=info msg="SMF Log level is set to [info] level" category=Init component=SMF
+time="2022-04-07T18:57:07+03:00" level=info msg="set log level : info" category=NAS component=LIB
+time="2022-04-07T18:57:07+03:00" level=info msg="set report call : false" category=NAS component=LIB
+time="2022-04-07T18:57:07+03:00" level=info msg="set log level : info" category=NGAP component=LIB
+time="2022-04-07T18:57:07+03:00" level=info msg="set report call : false" category=NGAP component=LIB
+time="2022-04-07T18:57:07+03:00" level=info msg="set log level : info" category=Aper component=LIB
+time="2022-04-07T18:57:07+03:00" level=info msg="set report call : false" category=Aper component=LIB
+time="2022-04-07T18:57:07+03:00" level=info msg="set log level : info" category=OAPI component=LIB
+time="2022-04-07T18:57:07+03:00" level=info msg="set report call : false" category=OAPI component=LIB
+time="2022-04-07T18:57:07+03:00" level=info msg="set log level : info" category=PFCP component=LIB
+time="2022-04-07T18:57:07+03:00" level=info msg="set report call : false" category=PFCP component=LIB
+time="2022-04-07T18:57:07+03:00" level=info msg="SMF config version [1.0.2]" category=CFG component=SMF
+time="2022-04-07T18:57:07+03:00" level=info msg="UE-Routing config version [1.0.1]" category=CFG component=SMF
+time="2022-04-07T18:57:07+03:00" level=info msg="smfconfig Info: Version[1.0.2] Description[SMF initial local configuration]" category=CTX component=SMF
+time="2022-04-07T18:57:07+03:00" level=info msg="Endpoints: [127.0.0.8]" category=CTX component=SMF
+time="2022-04-07T18:57:07+03:00" level=info msg="Server started" category=Init component=SMF
+time="2022-04-07T18:57:07+03:00" level=info msg="Handle NFRegisterRequest" category=MGMT component=NRF
+time="2022-04-07T18:57:07+03:00" level=info msg="urilist update" category=MGMT component=NRF
+time="2022-04-07T18:57:07+03:00" level=info msg="Create NF Profile" category=MGMT component=NRF
+time="2022-04-07T18:57:08+03:00" level=info msg="Location header:  http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/a02eeedd-73af-46a0-9947-b0d9f5ec27e6" category=MGMT component=NRF
+time="2022-04-07T18:57:08+03:00" level=info msg="| 201 |       127.0.0.1 | PUT     | /nnrf-nfm/v1/nf-instances/a02eeedd-73af-46a0-9947-b0d9f5ec27e6 | " category=GIN component=NRF
+time="2022-04-07T18:57:08+03:00" level=info msg="SMF Registration to NRF {a02eeedd-73af-46a0-9947-b0d9f5ec27e6 SMF REGISTERED 0 0xc0004caf40 0xc0004caf80 [] []   [127.0.0.2] [] <nil> [] [] <nil> 0 0 0 area1 <nil> <nil> <nil> <nil> 0xc000069980 <nil> <nil> <nil> <nil> <nil> map[] <nil> false 0xc0004cadc0 false false []}" category=Init component=SMF
+time="2022-04-07T18:57:08+03:00" level=info msg="Listen on 127.0.0.1:8805" category=PFCP component=SMF
+time="2022-04-07T18:57:08+03:00" level=info msg="Send PFCP Association Request to UPF[127.0.0.8]\n" category=App component=SMF
+time="2022-04-07T18:57:08+03:00" level=info msg="In HandlePfcpAssociationSetupResponse" category=PFCP component=SMF
+time="2022-04-07T18:57:08+03:00" level=info msg="Handle PFCP Association Setup Response with NodeID[127.0.0.8]" category=PFCP component=SMF
+time="2022-04-07T18:57:08+03:00" level=info msg="UPF(127.0.0.8)[internet] setup association" category=PFCP component=SMF
+time="2022-04-07T18:57:08+03:00" level=info msg="Remove Request Transaction [1]\n" category=PFCP component=LIB
+time="2022-04-11T20:54:18+03:00" level=info msg=webui category=App component=WebUI
+time="2022-04-11T20:54:18+03:00" level=info msg="webconsole version:  \n\tNot specify ldflags (which link version) during go build\n\tgo version: go1.14.4 linux/amd64" category=App component=WebUI
+time="2022-04-11T20:54:18+03:00" level=info msg="WebUI Log level is set to [info] level" category=Init component=WebUI
+time="2022-04-11T20:54:18+03:00" level=info msg="set log level : info" category=OAPI component=LIB
+time="2022-04-11T20:54:18+03:00" level=info msg="set report call : false" category=OAPI component=LIB
+time="2022-04-11T20:54:18+03:00" level=info msg="set log level : info" category=MonDB component=LIB
+time="2022-04-11T20:54:18+03:00" level=info msg="set report call : false" category=MonDB component=LIB
+time="2022-04-11T20:54:18+03:00" level=info msg="Server started" func="github.com/free5gc/webconsole/backend/webui_service.(*WEBUI).Start" file="/home/andres/free5gc/webconsole/backend/webui_service/webui_init.go:167" category=Init component=WebUI
+time="2022-04-11T20:54:23+03:00" level=info msg="| 304 |       127.0.0.1 | GET     | / | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-11T20:54:32+03:00" level=info msg="| 304 |       127.0.0.1 | GET     | / | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-11T20:54:32+03:00" level=info msg="| 304 |       127.0.0.1 | GET     | /static/js/main.c79201ad.js | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-11T20:54:33+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /static/media/free5gc_logo.adcdb325.png | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-11T20:54:33+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /favicon.ico | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-11T20:54:33+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /service-worker.js | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-11T20:54:33+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /service-worker.js | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-11T20:54:33+03:00" level=info msg="| 404 |       127.0.0.1 | GET     | /?_sw-precache=f600458ccfdb18e66afe69cb39ca28bd | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-11T20:54:35+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /static/media/Pe-icon-7-stroke.b38ef310.woff | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI
+time="2022-04-11T20:54:35+03:00" level=info msg="Get Registered UE Context" func=github.com/free5gc/webconsole/backend/WebUI.GetRegisteredUEContext file="/home/andres/free5gc/webconsole/backend/WebUI/api_webui.go:577" category=WebUI component=WebUI
+time="2022-04-11T20:54:38+03:00" level=error msg="Get \"http://192.168.20.11:8000/namf-oam/v1/registered-ue-context\": dial tcp 192.168.20.11:8000: connect: no route to host" func=github.com/free5gc/webconsole/backend/WebUI.GetRegisteredUEContext file="/home/andres/free5gc/webconsole/backend/WebUI/api_webui.go:596" category=WebUI component=WebUI
+time="2022-04-11T20:54:38+03:00" level=info msg="| 500 |       127.0.0.1 | GET     | /api/registered-ue-context | " func=github.com/free5gc/logger_util.ginToLogrus.func1 file="/home/andres/go/pkg/mod/github.com/free5gc/logger_util@v1.0.0/logger_util.go:76" category=GIN component=WebUI

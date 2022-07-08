@@ -1,0 +1,36 @@
+apiVersion: apps/v1 
+kind: Deployment
+metadata:
+  name: udm-deployment
+spec:
+  selector:
+    matchLabels:
+      app: free5gc-udm
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: free5gc-udm
+    spec:
+      containers:      
+      - name: myapp-container
+        image: andresache/udm
+        ports:
+        - containerPort: 29503
+        imagePullPolicy: Always
+
+---
+kind: Service
+apiVersion: v1
+metadata:
+  name: udm-service
+  labels:
+    app: free5gc-udm
+spec:
+  type: ClusterIP      
+  selector:
+    app: free5gc-udm
+  ports:
+  - protocol: TCP
+    targetPort: 29503
+    port: 29503

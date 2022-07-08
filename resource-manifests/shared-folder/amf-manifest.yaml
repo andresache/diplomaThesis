@@ -1,0 +1,43 @@
+apiVersion: apps/v1 
+kind: Deployment
+metadata:
+  name: amf-deployment
+spec:
+  selector:
+    matchLabels:
+      app: free5gc-amf
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: free5gc-amf
+    spec:
+      containers:      
+      - name: myapp-container
+        image: andresache/amf
+        ports:
+        - containerPort: 29518
+        - containerPort: 38412  
+        imagePullPolicy: Always
+
+---
+kind: Service
+apiVersion: v1
+metadata:
+  name: amf-service
+  labels:
+    app: free5gc-amf
+spec:
+  type: ClusterIP      
+  selector:
+    app: free5gc-amf
+  ports:
+  - protocol: TCP
+    name: amf
+    targetPort: 29518
+    port: 29518
+  - protocol: SCTP
+    name: test
+    targetPort: 38412
+    port: 38412    
+

@@ -1,0 +1,35 @@
+time="2022-04-06T18:53:37+03:00" level=info msg="SMF Log level is set to [info] level" category=Init component=SMF
+time="2022-04-06T18:53:37+03:00" level=info msg="SMF config version [1.0.2]" category=CFG component=SMF
+time="2022-04-06T18:53:37+03:00" level=info msg="UE-Routing config version [1.0.1]" category=CFG component=SMF
+time="2022-04-06T18:53:37+03:00" level=info msg="smfconfig Info: Version[1.0.2] Description[SMF initial local configuration]" category=CTX component=SMF
+time="2022-04-06T18:53:37+03:00" level=info msg="Endpoints: [10.200.200.102]" category=CTX component=SMF
+time="2022-04-06T18:53:37+03:00" level=info msg="Server started" category=Init component=SMF
+time="2022-04-06T18:53:37+03:00" level=info msg="SMF Registration to NRF {50ca8c20-243a-46bc-a3eb-a43a63c05922 SMF REGISTERED 0 0xc000254220 0xc000254260 [] []   [127.0.0.2] [] <nil> [] [] <nil> 0 0 0 area1 <nil> <nil> <nil> <nil> 0xc0004b0200 <nil> <nil> <nil> <nil> <nil> map[] <nil> false 0xc0002540a0 false false []}" category=Init component=SMF
+time="2022-04-06T18:53:37+03:00" level=info msg="Listen on 10.200.200.1:8805" category=PFCP component=SMF
+time="2022-04-06T18:53:37+03:00" level=info msg="Send PFCP Association Request to UPF[10.200.200.101]\n" category=App component=SMF
+time="2022-04-07T18:56:36+03:00" level=info msg="SMF version:  \n\tNot specify ldflags (which link version) during go build\n\tgo version: go1.14.4 linux/amd64" category=App component=SMF
+time="2022-04-07T18:56:36+03:00" level=info msg="SMF Log level is set to [info] level" category=Init component=SMF
+time="2022-04-07T18:56:36+03:00" level=info msg="SMF config version [1.0.2]" category=CFG component=SMF
+time="2022-04-07T18:56:36+03:00" level=info msg="UE-Routing config version [1.0.1]" category=CFG component=SMF
+time="2022-04-07T18:56:36+03:00" level=info msg="smfconfig Info: Version[1.0.2] Description[SMF initial local configuration]" category=CTX component=SMF
+time="2022-04-07T18:56:36+03:00" level=info msg="Endpoints: [127.0.0.8]" category=CTX component=SMF
+time="2022-04-07T18:56:36+03:00" level=info msg="Server started" category=Init component=SMF
+time="2022-04-07T18:56:36+03:00" level=info msg="SMF register to NRF Error[Put \"http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/889b20ce-393f-48b6-8036-a52cfa77c410\": dial tcp 127.0.0.10:8000: connect: connection refused]" category=Consumer component=SMF
+time="2022-04-07T18:56:38+03:00" level=info msg="SMF register to NRF Error[Put \"http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/889b20ce-393f-48b6-8036-a52cfa77c410\": dial tcp 127.0.0.10:8000: connect: connection refused]" category=Consumer component=SMF
+time="2022-04-07T18:56:40+03:00" level=info msg="SMF register to NRF Error[Put \"http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/889b20ce-393f-48b6-8036-a52cfa77c410\": dial tcp 127.0.0.10:8000: connect: connection refused]" category=Consumer component=SMF
+time="2022-04-07T18:56:42+03:00" level=info msg="SMF register to NRF Error[Put \"http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/889b20ce-393f-48b6-8036-a52cfa77c410\": dial tcp 127.0.0.10:8000: connect: connection refused]" category=Consumer component=SMF
+time="2022-04-07T18:56:44+03:00" level=info msg="SMF register to NRF Error[Put \"http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/889b20ce-393f-48b6-8036-a52cfa77c410\": dial tcp 127.0.0.10:8000: connect: connection refused]" category=Consumer component=SMF
+time="2022-04-07T18:56:46+03:00" level=info msg="SMF register to NRF Error[Put \"http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/889b20ce-393f-48b6-8036-a52cfa77c410\": dial tcp 127.0.0.10:8000: connect: connection refused]" category=Consumer component=SMF
+time="2022-04-07T18:57:07+03:00" level=info msg="SMF version:  \n\tNot specify ldflags (which link version) during go build\n\tgo version: go1.14.4 linux/amd64" category=App component=SMF
+time="2022-04-07T18:57:07+03:00" level=info msg="SMF Log level is set to [info] level" category=Init component=SMF
+time="2022-04-07T18:57:07+03:00" level=info msg="SMF config version [1.0.2]" category=CFG component=SMF
+time="2022-04-07T18:57:07+03:00" level=info msg="UE-Routing config version [1.0.1]" category=CFG component=SMF
+time="2022-04-07T18:57:07+03:00" level=info msg="smfconfig Info: Version[1.0.2] Description[SMF initial local configuration]" category=CTX component=SMF
+time="2022-04-07T18:57:07+03:00" level=info msg="Endpoints: [127.0.0.8]" category=CTX component=SMF
+time="2022-04-07T18:57:07+03:00" level=info msg="Server started" category=Init component=SMF
+time="2022-04-07T18:57:08+03:00" level=info msg="SMF Registration to NRF {a02eeedd-73af-46a0-9947-b0d9f5ec27e6 SMF REGISTERED 0 0xc0004caf40 0xc0004caf80 [] []   [127.0.0.2] [] <nil> [] [] <nil> 0 0 0 area1 <nil> <nil> <nil> <nil> 0xc000069980 <nil> <nil> <nil> <nil> <nil> map[] <nil> false 0xc0004cadc0 false false []}" category=Init component=SMF
+time="2022-04-07T18:57:08+03:00" level=info msg="Listen on 127.0.0.1:8805" category=PFCP component=SMF
+time="2022-04-07T18:57:08+03:00" level=info msg="Send PFCP Association Request to UPF[127.0.0.8]\n" category=App component=SMF
+time="2022-04-07T18:57:08+03:00" level=info msg="In HandlePfcpAssociationSetupResponse" category=PFCP component=SMF
+time="2022-04-07T18:57:08+03:00" level=info msg="Handle PFCP Association Setup Response with NodeID[127.0.0.8]" category=PFCP component=SMF
+time="2022-04-07T18:57:08+03:00" level=info msg="UPF(127.0.0.8)[internet] setup association" category=PFCP component=SMF

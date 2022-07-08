@@ -1,0 +1,9 @@
+time="2022-04-05T22:14:41+03:00" level=info msg="AUSF version:  \n\tNot specify ldflags (which link version) during go build\n\tgo version: go1.14.4 linux/amd64" category=App component=AUSF
+time="2022-04-05T22:14:41+03:00" level=info msg="AUSF Log level is set to [info] level" category=Init component=AUSF
+time="2022-04-05T22:14:41+03:00" level=info msg="config version [1.0.0]" category=CFG component=AUSF
+time="2022-04-05T22:14:41+03:00" level=info msg="Server started" category=Init component=AUSF
+time="2022-04-05T22:14:41+03:00" level=info msg="ausfconfig Info: Version[1.0.0] Description[AUSF initial local configuration]\n" category=Init component=AUSF
+time="2022-04-05T22:14:42+03:00" level=info msg="Terminating AUSF..." category=Init component=AUSF
+time="2022-04-05T22:14:42+03:00" level=info msg="Send Deregister NFInstance" category=App component=AUSF
+time="2022-04-05T22:14:43+03:00" level=info msg="Deregister from NRF successfully" category=Init component=AUSF
+time="2022-04-05T22:14:43+03:00" level=info msg="AUSF terminated" category=Init component=AUSF

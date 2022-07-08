@@ -1,0 +1,55 @@
+time="2022-04-06T18:53:37+03:00" level=info msg="NRF Log level is set to [info] level" category=Init component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="config version [1.0.0]" category=CFG component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="Server started" category=Init component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="nrfconfig Info: Version[1.0.0] Description[NRF initial local configuration]" category=Init component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="Binding addr: [127.0.0.10:8000]" category=Init component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="Handle NFRegisterRequest" category=MGMT component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="urilist update" category=MGMT component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="Create NF Profile" category=MGMT component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="Location header:  http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/7f27f484-4f0e-4061-a5db-059aece309fe" category=MGMT component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="| 201 |       127.0.0.1 | PUT     | /nnrf-nfm/v1/nf-instances/7f27f484-4f0e-4061-a5db-059aece309fe | " category=GIN component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="Handle NFRegisterRequest" category=MGMT component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="urilist update" category=MGMT component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="Create NF Profile" category=MGMT component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="Location header:  http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/50ca8c20-243a-46bc-a3eb-a43a63c05922" category=MGMT component=NRF
+time="2022-04-06T18:53:37+03:00" level=info msg="| 201 |       127.0.0.1 | PUT     | /nnrf-nfm/v1/nf-instances/50ca8c20-243a-46bc-a3eb-a43a63c05922 | " category=GIN component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Handle NFRegisterRequest" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="urilist update" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Create NF Profile" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Location header:  http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/2da426c9-a464-4a98-b761-cfa54813e367" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="| 201 |       127.0.0.1 | PUT     | /nnrf-nfm/v1/nf-instances/2da426c9-a464-4a98-b761-cfa54813e367 | " category=GIN component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Handle NFRegisterRequest" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="urilist update" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Create NF Profile" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Location header:  http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/8453ac01-fee8-4dee-b8f7-bb96be918eab" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="| 201 |       127.0.0.1 | PUT     | /nnrf-nfm/v1/nf-instances/8453ac01-fee8-4dee-b8f7-bb96be918eab | " category=GIN component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Handle NFDiscoveryRequest" category=DSCV component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /nnrf-disc/v1/nf-instances?requester-nf-type=PCF&service-names=nudr-dr&target-nf-type=UDR | " category=GIN component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Handle NFRegisterRequest" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="urilist update" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Create NF Profile" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Location header:  http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/4e396383-531a-4f9d-8bc4-b35a5c202543" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="| 201 |       127.0.0.1 | PUT     | /nnrf-nfm/v1/nf-instances/4e396383-531a-4f9d-8bc4-b35a5c202543 | " category=GIN component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Handle NFRegisterRequest" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="urilist update" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Create NF Profile" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Location header:  http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/9f0fc0b5-d7f6-4155-b40a-23e4f4e34e8a" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="| 201 |       127.0.0.1 | PUT     | /nnrf-nfm/v1/nf-instances/9f0fc0b5-d7f6-4155-b40a-23e4f4e34e8a | " category=GIN component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Handle NFRegisterRequest" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="urilist update" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Create NF Profile" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="Location header:  http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/5bb14955-cf16-41b9-9a6b-df6a9bf88f18" category=MGMT component=NRF
+time="2022-04-06T18:53:38+03:00" level=info msg="| 201 |       127.0.0.1 | PUT     | /nnrf-nfm/v1/nf-instances/5bb14955-cf16-41b9-9a6b-df6a9bf88f18 | " category=GIN component=NRF
+time="2022-04-06T18:53:39+03:00" level=info msg="Handle NFDiscoveryRequest" category=DSCV component=NRF
+time="2022-04-06T18:53:39+03:00" level=info msg="| 200 |       127.0.0.1 | GET     | /nnrf-disc/v1/nf-instances?requester-nf-type=AMF&target-nf-type=AUSF | " category=GIN component=NRF
+time="2022-04-07T18:57:04+03:00" level=info msg="NRF version:  \n\tNot specify ldflags (which link version) during go build\n\tgo version: go1.14.4 linux/amd64" category=App component=NRF
+time="2022-04-07T18:57:04+03:00" level=info msg="NRF Log level is set to [info] level" category=Init component=NRF
+time="2022-04-07T18:57:04+03:00" level=info msg="config version [1.0.0]" category=CFG component=NRF
+time="2022-04-07T18:57:04+03:00" level=info msg="Server started" category=Init component=NRF
+time="2022-04-07T18:57:04+03:00" level=info msg="nrfconfig Info: Version[1.0.0] Description[NRF initial local configuration]" category=Init component=NRF
+time="2022-04-07T18:57:04+03:00" level=info msg="Binding addr: [127.0.0.10:8000]" category=Init component=NRF
+time="2022-04-07T18:57:07+03:00" level=info msg="Handle NFRegisterRequest" category=MGMT component=NRF
+time="2022-04-07T18:57:07+03:00" level=info msg="urilist update" category=MGMT component=NRF
+time="2022-04-07T18:57:07+03:00" level=info msg="Create NF Profile" category=MGMT component=NRF
+time="2022-04-07T18:57:08+03:00" level=info msg="Location header:  http://127.0.0.10:8000/nnrf-nfm/v1/nf-instances/a02eeedd-73af-46a0-9947-b0d9f5ec27e6" category=MGMT component=NRF
+time="2022-04-07T18:57:08+03:00" level=info msg="| 201 |       127.0.0.1 | PUT     | /nnrf-nfm/v1/nf-instances/a02eeedd-73af-46a0-9947-b0d9f5ec27e6 | " category=GIN component=NRF
