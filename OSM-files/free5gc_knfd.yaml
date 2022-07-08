@@ -1,0 +1,17 @@
+vnfd:
+  description: KNF with KDU using a helm-chart for free5gc
+  df:
+  - id: default-df
+  ext-cpd:
+  - id: vnf-cp0-ext
+    k8s-cluster-net: apasca
+  id: free5gc_knf
+  k8s-cluster:
+    nets:
+    - id: apasca
+  kdu:
+  - helm-chart: free5gc/free5gc
+    name: free5gc
+  mgmt-cp: vnf-cp0-ext
+  product-name: free5gc_knf
+  version: '1.0'

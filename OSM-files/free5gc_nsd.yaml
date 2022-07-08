@@ -1,0 +1,22 @@
+nsd:
+    nsd:
+    -   description: NS consisting of a KNF free5gc connected to apasca network
+        df:
+        -   id: default-df
+            vnf-profile:
+            -   id: free5gc
+                virtual-link-connectivity:
+                -   constituent-cpd-id:
+                    -   constituent-base-element-id: free5gc
+                        constituent-cpd-id: vnf-cp0-ext
+                    virtual-link-profile-id: apasca
+                vnfd-id: free5gc_knf
+        id: free5gc_ns
+        name: free5gc_ns
+        version: '1.0'
+        virtual-link-desc:
+        -   id: apasca
+            mgmt-network: true
+            #vim-network-name: apasca
+        vnfd-id:
+        - free5gc_knf
